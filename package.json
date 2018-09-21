@@ -1,0 +1,15 @@
+{
+  "name": "game-options",
+  "version": "1.0.0",
+  "description": "set game levels options app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "codingwell",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^3.0.0"
+  }
+}
